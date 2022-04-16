@@ -1,0 +1,43 @@
+
+.outer-box{
+    width:500px;
+    margin: 7% auto;
+}
+.box{
+    background-color:rgb(65, 20, 71);
+    color: #fff;
+    width: 100%;
+    height:450px;
+}
+.text.end{
+    text-align: center;
+}
+h2{
+    margin: 0;
+    padding: 10px 10px 10px 0px;
+}
+.hedding{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text-add{
+    text-align: center;
+    margin-top: 10px;
+}
+input[type=text]{
+    padding: 7px;
+    width:250px;
+    border-radius: 5px;
+    border: 0px;
+}
+.btn-addList{
+    margin-left: 10px;
+    color:#fff;
+    background-color: rgb(6, 127, 240);
+    font-weight: 600;
+    font-size: 14px;
+    padding: 7px;
+    border: none;
+    border-radius: 7%;
+    cursor: pointer;
+}
